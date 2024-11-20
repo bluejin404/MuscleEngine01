@@ -13,8 +13,6 @@
 
 회생제동 기술을 이해해보자.
 
-[How can I implement regenerative braking of a DC motor?](https://electronics.stackexchange.com/questions/56186/how-can-i-implement-regenerative-braking-of-a-dc-motor/56187#56187)
-
 ![EYfFf.png](EYfFf.png)
 
 모터를 한 방향으로만 회전한다고 가정하고 하프브릿지 회로를 생각해보자.
